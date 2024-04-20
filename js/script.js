@@ -67,7 +67,7 @@ alt: 'Bluebells'
  document.querySelector(".gallery").innerHTML = imageGallery.join(' ');
 
 const search = new Filter('search', 'data-caption');
-baguetteBox.run('.gallery');
+
   
 
 
